@@ -37,3 +37,7 @@ Extruder into E-motor
 Heatbreak fan into fan 0
 
 I use threaded aluminum standoffs to attach to back of extruder. 18-20mm do the trick with my Sextant extruder. May be different for stock
+
+Follow [instructions from MKS](https://github.com/makerbase-mks/MKS-THR36-THR42-UTC)
+
+See my printer.cfg and MKS_THR.cfg for changes
